@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.3",
-    "mongodb": "^3.0.1",
+    "mongodb": "^2.2.30",
     "mongoose": "^5.0.1",
-    "socket.io": "^2.0.4"
+    "socket.io": "^2.0.3"
   }
 }
